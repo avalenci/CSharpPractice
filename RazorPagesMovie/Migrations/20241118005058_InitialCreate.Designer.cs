@@ -11,7 +11,7 @@ using RazorPagesMovie.Data;
 namespace RazorPagesMovie.Migrations
 {
     [DbContext(typeof(RazorPagesMovieContext))]
-    [Migration("20241117232829_InitialCreate")]
+    [Migration("20241118005058_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
